@@ -6,7 +6,7 @@ Stuff To Do:
 (5) Function that walks through all W*.csv files and for each file outputs file name and how many of various attributes including derived ones like demand are zero...  Need to take out OK=0 data and maybe data for which price=0
 (6) Make sure PrepareData is outputting right
 (7) Ask Gennady how things should be passed in PrepareData (e.g., not as self.data?)
-(8)
+(8) Run PrepareData on WTBR (that's what Gennady ran his on)
 
 
 DESCRIPTIVE STATS
